@@ -1,12 +1,12 @@
-.DS_Store
-config.php
-admin/tmp
-admin/pla.php
-tmp
-uploads
-vendor
-systems/data/database.sdb
-webapps
-backup/
-plugins/apotek_online
-config.php
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
